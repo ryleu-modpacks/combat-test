@@ -1,0 +1,13 @@
+name = "Combat Test"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "005e18a074e5bc5e3fb249bf706ab105cbfbfdaa1b4bb46f91a212bde31d9702"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.20.1"
