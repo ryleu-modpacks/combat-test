@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fastmove.json5"
+hash = "46aa4c147306a3e59be483e2c72eaf3d38916b4fdf622e31e8e35c791947120a"
+
+[[files]]
+file = "config/server.json5"
+hash = "95b32214f9a56af5e5123b754a40526d452626b66b500d3eee9ecd385e58228c"
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "616f08ac2b9ec995dfbb3c7799abf6396c5a8b32a51e00a781bcc8cc60378df1"
 metafile = true
