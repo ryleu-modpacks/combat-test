@@ -194,6 +194,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
 metafile = true
@@ -276,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "cbff9574beec124a49e11833fd3a4cb1f7d45542cdb26afda6a2b002c518e0d2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
